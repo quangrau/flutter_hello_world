@@ -1,12 +1,8 @@
 # My Awesome List
 
-A new Flutter project.
-
-## Screenshots
-
-| iOS                      | Android                      |
-| ------------------------ | ---------------------------- |
-| ![](screenshots/ios.PNG) | ![](screenshots/android.png) |
+|                       iOS                        |                       Android                        |
+| :----------------------------------------------: | :--------------------------------------------------: |
+| <img height="800" src="./screenshots/ios.PNG" /> | <img height="800" src="./screenshots/android.png" /> |
 
 ## Getting Started
 
