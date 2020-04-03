@@ -1,6 +1,12 @@
-# startup_namer
+# My Awesome List
 
 A new Flutter project.
+
+## Screenshots
+
+| iOS                      | Android                      |
+| ------------------------ | ---------------------------- |
+| ![](screenshots/ios.PNG) | ![](screenshots/android.png) |
 
 ## Getting Started
 
